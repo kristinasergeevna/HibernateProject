@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itis-hib-app/itis-hib-app.iml" filepath="$PROJECT_DIR$/itis-hib-app/itis-hib-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itits-hib-app-annotate/itis-hib-app-annotate.iml" filepath="$PROJECT_DIR$/itits-hib-app-annotate/itis-hib-app-annotate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itis-hib-gen/itis-hib-gen.iml" filepath="$PROJECT_DIR$/itis-hib-gen/itis-hib-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itis-hib-root.iml" filepath="$PROJECT_DIR$/itis-hib-root.iml" />
+    </modules>
+  </component>
+</project>

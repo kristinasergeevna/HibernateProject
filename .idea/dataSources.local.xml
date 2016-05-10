@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - itis_hib_db@localhost" uuid="d67ac652-9ab4-4509-a0e6-3bba5c833227">
+      <secret-storage>memory</secret-storage>
+      <user-name>kris</user-name>
+      <schema-pattern>itis_hib_db.*</schema-pattern>
+      <default-schemas>itis_hib_db.*</default-schemas>
+    </data-source>
+  </component>
+</project>
